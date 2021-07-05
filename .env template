@@ -1,0 +1,8 @@
+HOST=localhost
+PORT=5000
+DB_USERNAME=pranathi
+DB_PASSWORD=charitha1983
+DB_CLUSTER=cluster0.ndami
+SESS_SECRET=pranathi
+NODE_ENV='development'
+COOKIE_NAME='12345'
